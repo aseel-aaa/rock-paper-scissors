@@ -1,4 +1,4 @@
-![Kotlin](https://img.shields.io/badge/Kotlin-ED8B00?style=for-the-badge&logo=kotlin&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-B57EDC?style=for-the-badge&logo=kotlin&logoColor=white)
 
 # Rock-Paper-Scissors 🎮
 
@@ -27,11 +27,16 @@ The program lets you play against the computer, keeps track of scores, and allow
 
 ## Example Gameplay
 Please enter one of the following: Rock Paper Scissors.
+
 Rock
+
 You chose Rock. I chose Scissors. You win!
+
 Do you want to continue or exit this round? [0 for exit, 1 for continue]
+
 1
 ...
+
 Final score in this round -> Your score: 3, Game score: 2
 
 
